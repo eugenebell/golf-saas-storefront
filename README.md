@@ -39,14 +39,24 @@ CloudFoundry gives us a platform for deploying, and running our SAAS application
 This research will allow us to look at the SAAS lifecycle and RAD to attempt to answer some important questions such as:
 
  Why we would develop this application following a SAAS lifecycle?
+
  Why use RAD to create the service?
+
  For a Cloud Service Provider what is the strategy to deliver the service?
+
  Why would we operate it in a Cloud environment?
+
  Does RAD make development faster in a Cloud deployment?
+
  How do RAD technologies fit into the SAAS development lifecycle?
- How easy is it to deploy this SAAS application?  How does PAAS/IAAS influence the software architecture and will the product scale as a result?
+
+ How easy is it to deploy this SAAS application?
+ How does PAAS/IAAS influence the software architecture and will the product scale as a result?
+
  Was the deployment time improved and does it reduce time to market over traditional methods and technologies?
+
  What is the real development lifecycle of a SAAS product?
+
  Is the system truly elastic?
 
 1.7 Research Deliverables
@@ -54,14 +64,23 @@ This research will allow us to look at the SAAS lifecycle and RAD to attempt to 
 The deliverables from the Research Project are:
 
  Source Code for SAAS component.
+
  Source Code for mobile device component.
+
  Binary files for SAAS component (WAR) and mobile device component (Android).
+
  Installer for IAAS (Cloud Foundry micro).
+
  Installation and setup instructions for SAAS, PAAS and IAAS layers.
+
  Access to Android application through Market.
+
  A complete end-to-end service that users can register with and use, which is hosted entirely in a Cloud environment.
+
  A report detailing how the development lifecycle worked in delivering the product as a SAAS application.
+
  Conclusions and Findings from using RAD and hosting the service through the Cloud including the setup and configuration of OpenStack/Cloudfoundry.
+
  Conclusion and Finding on the Development Lifecycle of a SAAS application.
 
 
